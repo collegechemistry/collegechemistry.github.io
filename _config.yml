@@ -33,7 +33,7 @@ plugins:
   - jekyll-feed
 permalinks: pretty
 exclude: [node_modules]
-exclude: [MathJs]
+exclude: [MathJax]
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

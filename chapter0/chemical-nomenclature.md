@@ -30,3 +30,11 @@ At the same time, the non-metals generally form only one type of anion.
 * Nitrogen and phosphorus form only -3 ions.
 
 Since ionic compounds must be electrically neutral, the total of thecharges on the cations (+) has to be equal to the total charges on the anions (-).  We can use this to decide how many cations and anions are present in the compound.
+
+#### Writing formulas from names
+
+Consider the compound calcium fluoride.
+Because calcium is in Group 2 it will form an ion with a 2+ charge, Ca<sup>2+</sup> in an ionic compound.
+Fluoride is the anion of *fluorine*, which is in Group 17, and has a -1 charge.  Fluoride is F<sup>-</sup>.
+
+For the charges to balance, there must be two fluoride ions for each calcium ion.  Therefore the formula for calcium fluoride is CaF<sub>2</sub>.

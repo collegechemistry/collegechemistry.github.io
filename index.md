@@ -9,12 +9,6 @@ layout: page
 <h1>College Chemistry</h1>
 
 <div class="grid-x grid-margin-x">
-<div class="medium-6 cell callout success">
-### Chemistry of Solutions (202-NYB)
-</div>
-<div class="medium-6 cell callout success">
-### General Chemistry (202-NYA)
-
-</div>
+<p>Course Notes for General and Organic Chemistry</p>
 
 </div>
